@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/RealWeather/static/css/main.3aac2e29.css",
+    "main.js": "/RealWeather/static/js/main.36915945.js",
+    "static/js/787.2c22e379.chunk.js": "/RealWeather/static/js/787.2c22e379.chunk.js",
+    "static/media/notfound.gif": "/RealWeather/static/media/notfound.25ba533bb42e0710b0c7.gif",
+    "static/media/overcast.png": "/RealWeather/static/media/overcast.03f130d47ee549381ea3.png",
+    "static/media/cloudy.png": "/RealWeather/static/media/cloudy.20f0cc1d2fa7fabb49bb.png",
+    "static/media/sun.png": "/RealWeather/static/media/sun.b972dcf61eb381f03551.png",
+    "static/media/locationIcon.png": "/RealWeather/static/media/locationIcon.1113f1252a1946ff7e85.png",
+    "static/media/airPressure.png": "/RealWeather/static/media/airPressure.c4521ef5f7c12b0066d0.png",
+    "static/media/humidity.png": "/RealWeather/static/media/humidity.729fc86df3478e46c6ca.png",
+    "static/media/mist.png": "/RealWeather/static/media/mist.3c6b3bb44806c71e436e.png",
+    "static/media/partlycloudy.png": "/RealWeather/static/media/partlycloudy.a6d0b7d87d2022baaf47.png",
+    "static/media/windy.png": "/RealWeather/static/media/windy.e3f79daf18886c964510.png",
+    "index.html": "/RealWeather/index.html",
+    "main.3aac2e29.css.map": "/RealWeather/static/css/main.3aac2e29.css.map",
+    "main.36915945.js.map": "/RealWeather/static/js/main.36915945.js.map",
+    "787.2c22e379.chunk.js.map": "/RealWeather/static/js/787.2c22e379.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aac2e29.css",
+    "static/js/main.36915945.js"
+  ]
+}
