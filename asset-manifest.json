@@ -1,25 +1,30 @@
 {
   "files": {
-    "main.css": "/RealWeather/static/css/main.b4227f7d.css",
-    "main.js": "/RealWeather/static/js/main.ff52c69c.js",
+    "main.css": "/RealWeather/static/css/main.bce53bbb.css",
+    "main.js": "/RealWeather/static/js/main.ca0be2aa.js",
     "static/js/787.2c22e379.chunk.js": "/RealWeather/static/js/787.2c22e379.chunk.js",
     "static/media/notfound.png": "/RealWeather/static/media/notfound.7e7ad2815d148f623658.png",
     "static/media/overcast.png": "/RealWeather/static/media/overcast.03f130d47ee549381ea3.png",
+    "static/media/sunny.jpg": "/RealWeather/static/media/sunny.c72f26d70e4fd68d39fb.jpg",
     "static/media/cloudy.png": "/RealWeather/static/media/cloudy.20f0cc1d2fa7fabb49bb.png",
+    "static/media/patchyImage.jpg": "/RealWeather/static/media/patchyImage.5de3e08d38df485cc362.jpg",
     "static/media/sun.png": "/RealWeather/static/media/sun.b972dcf61eb381f03551.png",
     "static/media/locationIcon.png": "/RealWeather/static/media/locationIcon.1113f1252a1946ff7e85.png",
+    "static/media/cloudy.jpg": "/RealWeather/static/media/cloudy.fda326c4847b4feaf99b.jpg",
+    "static/media/partlyCloudy.jpg": "/RealWeather/static/media/partlyCloudy.9c614271e419b68bf291.jpg",
     "static/media/airPressure.png": "/RealWeather/static/media/airPressure.c4521ef5f7c12b0066d0.png",
     "static/media/humidity.png": "/RealWeather/static/media/humidity.729fc86df3478e46c6ca.png",
     "static/media/mist.png": "/RealWeather/static/media/mist.3c6b3bb44806c71e436e.png",
     "static/media/partlycloudy.png": "/RealWeather/static/media/partlycloudy.a6d0b7d87d2022baaf47.png",
+    "static/media/clear.jpg": "/RealWeather/static/media/clear.fff6febd358cf1d86e91.jpg",
     "static/media/windy.png": "/RealWeather/static/media/windy.e3f79daf18886c964510.png",
     "index.html": "/RealWeather/index.html",
-    "main.b4227f7d.css.map": "/RealWeather/static/css/main.b4227f7d.css.map",
-    "main.ff52c69c.js.map": "/RealWeather/static/js/main.ff52c69c.js.map",
+    "main.bce53bbb.css.map": "/RealWeather/static/css/main.bce53bbb.css.map",
+    "main.ca0be2aa.js.map": "/RealWeather/static/js/main.ca0be2aa.js.map",
     "787.2c22e379.chunk.js.map": "/RealWeather/static/js/787.2c22e379.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4227f7d.css",
-    "static/js/main.ff52c69c.js"
+    "static/css/main.bce53bbb.css",
+    "static/js/main.ca0be2aa.js"
   ]
 }
