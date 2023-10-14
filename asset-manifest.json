@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/RealWeather/static/css/main.791323a1.css",
-    "main.js": "/RealWeather/static/js/main.2e345ef4.js",
+    "main.css": "/RealWeather/static/css/main.d06639f1.css",
+    "main.js": "/RealWeather/static/js/main.2b705c51.js",
     "static/js/787.2c22e379.chunk.js": "/RealWeather/static/js/787.2c22e379.chunk.js",
     "static/media/notfound.png": "/RealWeather/static/media/notfound.7e7ad2815d148f623658.png",
     "static/media/overcast.png": "/RealWeather/static/media/overcast.03f130d47ee549381ea3.png",
@@ -19,12 +19,12 @@
     "static/media/clear.jpg": "/RealWeather/static/media/clear.fff6febd358cf1d86e91.jpg",
     "static/media/windy.png": "/RealWeather/static/media/windy.e3f79daf18886c964510.png",
     "index.html": "/RealWeather/index.html",
-    "main.791323a1.css.map": "/RealWeather/static/css/main.791323a1.css.map",
-    "main.2e345ef4.js.map": "/RealWeather/static/js/main.2e345ef4.js.map",
+    "main.d06639f1.css.map": "/RealWeather/static/css/main.d06639f1.css.map",
+    "main.2b705c51.js.map": "/RealWeather/static/js/main.2b705c51.js.map",
     "787.2c22e379.chunk.js.map": "/RealWeather/static/js/787.2c22e379.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.791323a1.css",
-    "static/js/main.2e345ef4.js"
+    "static/css/main.d06639f1.css",
+    "static/js/main.2b705c51.js"
   ]
 }
